@@ -13,4 +13,4 @@
 
 ### Procedimento
 
-Lorem ipsum...
+Dividere i tuorli dagli album 
