@@ -8,7 +8,7 @@
  - 150 g zucchero
  - 500 g mascarpone
  - 200 g savoiardi
- - 20 tazze di caffé
+ - 31 tazze di caffé
  - cacao amaro
 
 ### Procedimento
