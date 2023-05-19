@@ -4,15 +4,19 @@
 
 ### Ingredienti
 
- - 8 tuorli d'uovo
- - 2 cucchiai di zucchero per tuorlo
- - 500 g mascarpone
- - latte
- - 1 busta di Dolceneve
- - savoiardi q.b.
- - caffè q.b.
- - cacao amaro
+
+ - 6 uova
+ - 150 g zucchero
+ - 600 g mascarpone
+ - 200 g savoiardi
+ - 10 tazze di caffé
+ - cacao dolce
 
 ### Procedimento
 
-Dividere i tuorli dagli album 
+Lorem ipsum...
+![Tiramisu_Fanes](https://github.com/prof-ortombina/tiramisu/assets/123731204/b5914134-a7a7-4443-983e-32b1a5fdede1)
+
+[Link alla ricetta](https://ricette.giallozafferano.it/Tiramisu.html)
+
+[Ricette 2](Ricetta2.md)
