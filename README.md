@@ -4,12 +4,12 @@
 
 ### Ingredienti
 
- - 8 uova
- - 150 g zucchero
- - 500 g mascarpone
+ - 20 uova
+ - 1 g zucchero
+ - 51Kg  mascarpone
  - 200 g savoiardi
- - 10 tazze di caffé
- - cacao amaro
+ - 1 lt di caffé
+ - cacao dolce
 
 ### Procedimento
 
