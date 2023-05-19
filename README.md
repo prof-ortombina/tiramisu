@@ -4,12 +4,12 @@
 
 ### Ingredienti
 
- - 8 uova
- - 150 g zucchero
+ - 8 tuorli d'uovo
+ - 2 cucchiai di zucchero per tuorlo
  - 500 g mascarpone
  - latte
  - 1 busta di Dolceneve
- - 200 g savoiardi
+ - savoiardi q.b.
  - caffè q.b.
  - cacao amaro
 
