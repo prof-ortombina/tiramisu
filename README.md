@@ -18,6 +18,6 @@ Lorem ipsum...
 
 [Link alla ricetta](https://ricette.giallozafferano.it/Tiramisu.html)
 
-[Ricette 2](ricetta2.md)
+[Ricette 2](Ricetta2.md)
 
 
