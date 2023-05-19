@@ -7,8 +7,10 @@
  - 8 uova
  - 150 g zucchero
  - 500 g mascarpone
+ - latte
+ - 1 busta di Dolceneve
  - 200 g savoiardi
- - 10 tazze di caffé
+ - caffè q.b.
  - cacao amaro
 
 ### Procedimento
