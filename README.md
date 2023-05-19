@@ -4,13 +4,15 @@
 
 ### Ingredienti
 
- - 8 uova
- - 150 g zucchero
+ - 8 tuorli d'uovo
+ - 2 cucchiai di zucchero per tuorlo
  - 500 g mascarpone
- - 200 g savoiardi
- - 31 tazze di caffé
+ - latte
+ - 1 busta di Dolceneve
+ - savoiardi q.b.
+ - caffè q.b.
  - cacao amaro
 
 ### Procedimento
 
-Lorem ipsum...
+Dividere i tuorli dagli album 
